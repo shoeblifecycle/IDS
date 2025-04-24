@@ -1,0 +1,8 @@
+app_identifier("com.staging.LevelShoes") # The bundle identifier of your app
+apple_id("it@idslogic.com") # Your Apple Developer Portal username
+
+itc_team_id("118947522") # App Store Connect Team ID
+team_id("F8223AFXFH") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
